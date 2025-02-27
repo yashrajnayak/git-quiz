@@ -1,8 +1,10 @@
-# Git Quiz App
+# Git Quiz
 
-![Git Quiz App Screenshot](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+An interactive quiz application that tests your knowledge of Git through randomly selected questions from a GitHub repository.
 
-An interactive quiz application that tests your knowledge of Git through randomly selected questions from LinkedIn's skill assessment quizzes.
+![Quiz Question](https://github.com/user-attachments/assets/94d13aef-b92d-4aad-b901-5a77fdb7c644)
+
+![Quiz Results](https://github.com/user-attachments/assets/198b0a8b-7d30-4943-91e6-2ea325db6923)
 
 ## 🚀 Features
 
@@ -24,7 +26,7 @@ An interactive quiz application that tests your knowledge of Git through randoml
 
 ## 📋 How It Works
 
-1. The app fetches raw markdown content from the [LinkedIn Skill Assessments Quizzes](https://github.com/JayantGoel001/linkedin-skill-assessments-quizzes) repository
+1. The app fetches raw markdown content from the [LinkedIn Skill Assessments Quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) repository
 2. It parses the markdown to extract questions, options, correct answers, and explanations
 3. A random subset of questions is selected for each quiz session
 4. Questions are presented one at a time with multiple-choice options
@@ -75,22 +77,6 @@ The build artifacts will be stored in the `dist/` directory.
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgements
-
-- [LinkedIn Skill Assessments Quizzes](https://github.com/JayantGoel001/linkedin-skill-assessments-quizzes) for providing the quiz questions
-- [Lucide React](https://lucide.dev/) for the beautiful icons
-- [Tailwind CSS](https://tailwindcss.com/) for the styling framework
-- [Vite](https://vitejs.dev/) for the build tool
-- [React](https://reactjs.org/) for the frontend framework
-
-## 📸 Screenshots
-
-![Quiz Question](https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
-*Quiz question with multiple-choice options*
-
-![Quiz Results](https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
-*Quiz results showing score and feedback*
 
 ## 🤝 Contributing
 

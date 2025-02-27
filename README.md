@@ -2,9 +2,9 @@
 
 An interactive quiz application that tests your knowledge of Git through randomly selected questions from a GitHub repository.
 
-![Quiz Question](https://github.com/user-attachments/assets/94d13aef-b92d-4aad-b901-5a77fdb7c644)
+![Quiz Question](https://github.com/user-attachments/assets/2f01aaa4-fd9e-4984-abd2-9a28569b806d)
 
-![Quiz Results](https://github.com/user-attachments/assets/198b0a8b-7d30-4943-91e6-2ea325db6923)
+![Quiz Results](https://github.com/user-attachments/assets/25d4f4fe-e62c-47fe-ab16-26f104016495)
 
 ## 🚀 Features
 
